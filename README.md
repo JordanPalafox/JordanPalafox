@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jordan Palafox</h1>
 <h3 align="center">A passionate programmer from Mexico. “Code it, break it, fix it, repeat”</h3>
 
-- 🔭 I’m currently working on [WAREM](https://warem.com.mx)
+- 🔭 I’m currently working on [WAREM](https://warem.com.mx), [Ailo](https://ailoerp.com) and [Talentapy](https://talentapy.com)
 
-- 🌱 I’m currently learning **Astro, react native, AWS, ROS, Typescript**
+- 🌱 I’m currently learning **Astro, react native, AWS, ROS2, Typescript**
 
 - 📫 How to reach me **jordanpalafox@warem.com.mx**
 
